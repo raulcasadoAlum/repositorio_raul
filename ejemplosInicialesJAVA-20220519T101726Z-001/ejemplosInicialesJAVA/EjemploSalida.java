@@ -15,6 +15,8 @@ public class EjemploSalida {
 		System.out.println("La letra "+carac1+" con la "+carac2+" sería "+carac1+carac2);
 		
 		System.out.println("Hasta luego");
+		System.out.println("Syso de prueba nueva rama");
+		
 		
 		
 	}
